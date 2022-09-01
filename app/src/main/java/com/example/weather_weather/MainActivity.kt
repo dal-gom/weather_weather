@@ -11,7 +11,5 @@ class MainActivity : AppCompatActivity() {
     fun double(x: Int): Int {
         return 2 * x
     }
-    fun double(y: Int,z: Int): Int {
-        return 2 * y
-    }
+
 }
